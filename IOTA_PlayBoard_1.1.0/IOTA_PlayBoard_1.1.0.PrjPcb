@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IVMNMYFI
 
 [Document5]
-DocumentPath=Job1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=IOTA_PlayBoard_1.1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,6 +121,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QYJUVHBH
+
+[Document6]
+DocumentPath=IOTA_PlayBoard_1.1.0.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=15B01640-2FFE-4E89-B435-1E35DCCBDC0C
@@ -179,6 +179,94 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\BOM\IOTA_PlayBoard_1.1.0 - Bill of Materials - Devel.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\STEP\IOTA_PlayBoard_1.1.0 - Export STEP - Devel.step
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\NC Drill Files\IOTA_PlayBoard_1.1.0-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\NC Drill Files\IOTA_PlayBoard_1.1.0-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\NC Drill Files\IOTA_PlayBoard_1.1.0.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\NC Drill Files\IOTA_PlayBoard_1.1.0.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Gerber Files\IOTA_PlayBoard_1.1.0.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Report Board Stack\IOTA_PlayBoard_1.1.0.xls
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Pick and Place\Pick and place Bottom - IOTA_PlayBoard_1.1.0 - Devel.txt
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for IOTA_PlayBoard_1.1.0\Pick and Place\Pick and place Top - IOTA_PlayBoard_1.1.0 - Devel.txt
 DItemRevisionGUID=
 
 [Configuration1]
