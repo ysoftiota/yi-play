@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Projects\Altium\Projects\IOTA_PlayBoard_1.1.0\IOTA_PlayBoard_1.1.0.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=iota_playboard_1.1.0-plated.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=iota_playboard_1.1.0-nonplated.txt|DrillLayers=gtl,gp1,g1,gbl
