@@ -36,3 +36,7 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
 * Maximum input voltage is 14V - however it starts as low as 5V
 * Lower power rating of 5V and 3.3V voltage regulators. Power supplies are optimized for low-power battery operation, not for power hungry applications.
 * Some pins are used by internal peripherals, therefore they cannot be used by anything else. However given peripheral can be disconnected by desoldering 0R resistors.
+
+![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20top.png)
+![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20bottom.png)
+
