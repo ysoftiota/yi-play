@@ -29,3 +29,10 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
 * YSoft IOTA Play comes with configurable 3D printable box [How To](https://github.com/ysoftiota/yi-play/blob/master/Box/README.md)
 * YSoft IOTA Play can be developed in Arduino IDE [How To](https://github.com/ysoftiota/yi-play-arduino)
 * YSoft IOTA Play is open source and open hardware
+
+# Limitations compared to Arduino Zero/M0
+* IOTA Play does not contain embedded EDBG debugger chip. Atmel ICE debugger must be obtained separately.
+* LED(s) are on different pin, so use LED_BUILTIN and LED1 LED2 defines for accessing LEDs
+* Maximum input voltage is 14V - however it starts as low as 5V
+* Lower power rating of 5V and 3.3V voltage regulators. Power supplies are optimized for low-power battery operation, not for power hungry applications.
+* Some pins are used by internal peripherals, therefore they cannot be used by anything else. However given peripheral can be disconnected by desoldering 0R resistors.
