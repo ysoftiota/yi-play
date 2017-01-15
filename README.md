@@ -30,13 +30,13 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
 ### Moreover:
 * YSoft IOTA Play comes with configurable 3D printable box [How To](https://github.com/ysoftiota/yi-play/blob/master/Box/README.md)
 * YSoft IOTA Play can be developed in Arduino IDE [How To](https://github.com/ysoftiota/yi-play-arduino)
-* YSoft IOTA Play is open source and open hardware
+* YSoft IOTA Play is open source and open hardware [Schematics](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/Schematic%20Print/IOTA_PlayBoard_1.1.0%20-%20Schematic%20Prints%20-%20Devel.PDF) [3D PDF](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/3D%20View/IOTA_PlayBoard_1.1.0%20-%20Export%20PDF3D%20-%20Devel.PDF) [PCB print](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/PCB%20Print/IOTA_PlayBoard_1.1.0%20-%20PCB%20Prints%20-%20Devel.PDF) [Assembly drawing](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/PCB%20Print/IOTA_PlayBoard_1.1.0%20-%20Assembly%20Drawings%20-%20Devel.PDF)
 
 # Limitations compared to Arduino Zero/M0
 * IOTA Play does not contain embedded EDBG debugger chip. [Atmel ICE debugger](http://www.atmel.com/tools/atatmel-ice.aspx) must be obtained separately if debugging is needed.
 * LED(s) are on different pin, so use LED_BUILTIN and PIN_LED1 PIN_LED2 defines for accessing LEDs
 * Maximum input voltage is 14V - however it starts as low as 5V
-* Lower Amp rating of 5V and 3.3V voltage regulators. Power supplies are optimized for low-power battery operation, not for power hungry applications.
+* Lower Amp rating of 5V (300mA) and 3.3V (200mA) voltage regulators which should be enough for normal applications. Power supplies are optimized for low-power battery operation, not for power hungry applications.
 * Some pins are used by internal peripherals ([pin mapping](https://github.com/ysoftiota/yi-play/wiki/PinMapping)), therefore they cannot be used by anything else. However given peripheral can be disconnected by desoldering 0R resistors.
 
 ![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20top.png)
