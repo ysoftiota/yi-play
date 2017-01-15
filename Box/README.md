@@ -23,11 +23,21 @@
 1. The print will take 3-4h depending on quality selected
 1. After printing it is necessary to clean the buttons and button holes by a sharp knife so that the buttons move freely
 1. If the buttons are not printed correctly, print them separately using slower speed
-1. 4 screws are required. Screws from USBv2 (or longer from other products) are ideally suited.
+1. 4 screws are required. Screws from USBv2 (or longer from TUL/NCR for larger boxes) are ideally suited.
 1. Enjoy your IOTA Play in box
 
+## Configuring the model
+1. Open the FCStd file in FreeCad 0.16 or higher (in older versions you will not see the spreadsheet)
+1. Open the model_parameters spread sheet from Combo View panel:
+   ![IOTA Play Box](https://github.com/ysoftiota/yi-play/blob/master/Box/model_parameters.png)
+1. Select model height and which parts you need and which you don't. 1 means object enabled, 0 means object disabled.
+1. Rewiew the changes you made, the model is transparent.
+1. Click on 'top' part from Combo view (the part will turn green) and go to File -> Export. Select STL Mesh or Wavefront OBJ for the export format.
+1. Repeat for 'bottom' and 'buttons' parts.
+1. Follow the manufacturing procedure above
+
 ## Pictures
-![IOTA Play Box](https://github.com/ysoftiota/yi-play/blob/master/Box/box1.png)
+![IOTA Play Box](https://github.com/ysoftiota/yi-play/blob/master/Box/box1.png) 
 ![IOTA Play Box](https://github.com/ysoftiota/yi-play/blob/master/Box/box2.png)
 ![IOTA Play Box](https://github.com/ysoftiota/yi-play/blob/master/Box/box3.png)
 ![IOTA Play Box](https://github.com/ysoftiota/yi-play/blob/master/Box/box4.png)
