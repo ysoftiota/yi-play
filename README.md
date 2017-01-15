@@ -1,4 +1,4 @@
-# YSoft IOTA Play board
+# YSoft IOTA Play
 ![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play.png)
 
 ## What is YSoft IOTA Play?
@@ -30,7 +30,7 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
 ### Moreover:
 * YSoft IOTA Play comes with configurable 3D printable box [How To](https://github.com/ysoftiota/yi-play/blob/master/Box/README.md)
 * YSoft IOTA Play can be developed in Arduino IDE [How To](https://github.com/ysoftiota/yi-play-arduino)
-* YSoft IOTA Play is open source and open hardware [Schematics](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/Schematic%20Print/IOTA_PlayBoard_1.1.0%20-%20Schematic%20Prints%20-%20Devel.PDF) [3D PDF](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/3D%20View/IOTA_PlayBoard_1.1.0%20-%20Export%20PDF3D%20-%20Devel.PDF) [PCB print](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/PCB%20Print/IOTA_PlayBoard_1.1.0%20-%20PCB%20Prints%20-%20Devel.PDF) [Assembly drawing](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/PCB%20Print/IOTA_PlayBoard_1.1.0%20-%20Assembly%20Drawings%20-%20Devel.PDF)
+* YSoft IOTA Play is open source and open hardware [Schematics](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/Schematic%20Print/IOTA_PlayBoard_1.1.0%20-%20Schematic%20Prints%20-%20Devel.PDF), [3D PDF](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/3D%20View/IOTA_PlayBoard_1.1.0%20-%20Export%20PDF3D%20-%20Devel.PDF), [PCB print](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/PCB%20Print/IOTA_PlayBoard_1.1.0%20-%20PCB%20Prints%20-%20Devel.PDF), [Assembly drawing](https://github.com/ysoftiota/yi-play/raw/master/IOTA_PlayBoard_1.1.0/Project%20Outputs%20for%20IOTA_PlayBoard_1.1.0/PCB%20Print/IOTA_PlayBoard_1.1.0%20-%20Assembly%20Drawings%20-%20Devel.PDF). See [IOTA_PlayBoard_1.1.0](https://github.com/ysoftiota/yi-play/tree/master/IOTA_PlayBoard_1.1.0) for complete PCB project.
 
 # Limitations compared to Arduino Zero/M0
 * IOTA Play does not contain embedded EDBG debugger chip. [Atmel ICE debugger](http://www.atmel.com/tools/atatmel-ice.aspx) must be obtained separately if debugging is needed.
