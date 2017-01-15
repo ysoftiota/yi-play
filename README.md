@@ -11,19 +11,21 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
 * Onboard crypto chip with ECC and RNG [Atmel ATECC508A](http://www.atmel.com/devices/atecc508a.aspx)
 * Onboard ISM 868MHz transceiver [HopeRF RFM69](http://www.hoperf.com/rf_transceiver/modules/RFM69HW.html)
 * 5V tolerant I/O on selected digital pins
-* Voltage level translator with possibility to use 5V output voltage using external pull-up (for CMOS logic)
+  * Voltage level translator with possibility to use 5V output voltage using external pull-up (for CMOS logic)
 * Enhanced power supplies
-  * Extremely low self-power consumption of power supplies
+  * Optimized for battery operation - extremely low self-power consumption of power supplies
   * Designed for 2xA, 2xAAA or other 3V alkaline cell operation (4V rechargeable lithium cells not supported)
-  * <10uA complete board power consumption in standby (without power LEDs and peripheral voltages)
-  * 3.3V boost for core and peripherals
+  * <10uA complete board power consumption in standby (without power LEDs and peripheral voltages enabled)
+  * 3.3V boost from 3V battery for core and peripherals
   * 3.3V peripheral voltage can be powered down in standby
-  * 5V boost that can be powered down in standby
+  * 5V boost from 3V battery that can be powered down in standby
   * USB Host mode 5V supported in battery mode operation
 * Manual switch between battery and USB/Power jack operation
 * Most of functionality can be changed by onboard 0R resistors
-* Disable not needed peripherals
-* Power consumption optimization
+  * Disable not needed peripherals
+  * Disable not needed power supplies
+  * Power consumption optimization
+  * Set I/O pin for user application
 
 ### Moreover:
 * YSoft IOTA Play comes with configurable 3D printable box [How To](https://github.com/ysoftiota/yi-play/blob/master/Box/README.md)
@@ -31,10 +33,10 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
 * YSoft IOTA Play is open source and open hardware
 
 # Limitations compared to Arduino Zero/M0
-* IOTA Play does not contain embedded EDBG debugger chip. Atmel ICE debugger must be obtained separately.
+* IOTA Play does not contain embedded EDBG debugger chip. [Atmel ICE debugger](http://www.atmel.com/tools/atatmel-ice.aspx) must be obtained separately if debugging is needed.
 * LED(s) are on different pin, so use LED_BUILTIN and PIN_LED1 PIN_LED2 defines for accessing LEDs
 * Maximum input voltage is 14V - however it starts as low as 5V
-* Lower power rating of 5V and 3.3V voltage regulators. Power supplies are optimized for low-power battery operation, not for power hungry applications.
+* Lower Amp rating of 5V and 3.3V voltage regulators. Power supplies are optimized for low-power battery operation, not for power hungry applications.
 * Some pins are used by internal peripherals ([pin mapping](https://github.com/ysoftiota/yi-play/wiki/PinMapping)), therefore they cannot be used by anything else. However given peripheral can be disconnected by desoldering 0R resistors.
 
 ![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20top.png)
