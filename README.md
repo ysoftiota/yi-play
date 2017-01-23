@@ -41,6 +41,6 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
 * Some pins are used by internal peripherals ([pin mapping](https://github.com/ysoftiota/yi-play/wiki/PinMapping)), therefore they cannot be used by anything else. However given peripheral can be disconnected by desoldering 0R resistors.
 * Only one hardware serial port is supported and SerialUSB (defined as Serial) is used for Arduino monitor. If you need to access the hardware serial port then use SERIAL_PORT_HARDWARE define.
 
-![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20top.png)
-![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20bottom.png)
+![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20top.jpg)
+![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20bottom.jpg)
 
