@@ -38,7 +38,7 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
 * LED(s) are on different pin, so use LED_BUILTIN and PIN_LED1 PIN_LED2 defines for accessing LEDs
 * Maximum input voltage is 14V - however it starts as low as 5V
 * Lower Amp rating of 5V (300mA) and 3.3V (200mA) voltage regulators which should be enough for normal applications. Power supplies are optimized for low-power battery operation, not for power hungry applications.
-* Some pins are used by internal peripherals ([pin mapping](https://github.com/ysoftiota/yi-play/wiki/PinMapping)), therefore they cannot be used by anything else. However given peripheral can be disconnected by desoldering 0R resistors.
+* Some pins are used by internal peripherals ([pin mapping](https://github.com/ysoftiota/yi-play/wiki/PinMapping), [pin mapping PDF](https://github.com/ysoftiota/yi-play/blob/master/IOTA_PlayBoard_1.1.0/IOTA%20Play%20board%201.1.0%20pin%20mapping.pdf)), therefore they cannot be used by anything else. However given peripheral can be disconnected by desoldering 0R resistors.
 * Only one hardware serial port is supported and SerialUSB (defined as Serial) is used for Arduino monitor. If you need to access the hardware serial port then use SERIAL_PORT_HARDWARE define.
 
 ![IOTA Play](https://github.com/ysoftiota/yi-play/blob/master/IOTA%20Play%20-%20top.jpg)
