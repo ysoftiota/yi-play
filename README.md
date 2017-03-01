@@ -14,7 +14,7 @@ YSoft IOTA Play is [Arduino Zero](https://www.arduino.cc/en/Main/ArduinoBoardZer
   * Voltage level translator with possibility to use 5V output voltage using external pull-up (for CMOS logic)
 * Enhanced power supplies
   * Optimized for battery operation - extremely low self-power consumption of power supplies
-  * Designed for 2xA, 2xAAA or other 3V alkaline cell operation (4V rechargeable lithium cells not supported)
+  * Designed for 2xAA, 2xAAA or other 3V alkaline cell operation (4V rechargeable lithium cells not supported)
   * <10uA complete board power consumption in standby (without power LEDs and peripheral voltages enabled)
   * 3.3V boost from 3V battery for core and peripherals
   * 3.3V peripheral voltage can be powered down in standby
