@@ -13,7 +13,7 @@
 * Printable on [YSoft be3D eDee](https://www.ysoft.com/en/be3d-edee-3dprinter) printers
 
 ## Manufacturing procedure
-1. Download [stl/obj files](https://github.com/ysoftiota/yi-play/blob/master/Box/IOTA_Play_Box_1.0.zip) or export them using FreeCAD from [model](https://github.com/ysoftiota/yi-play/blob/master/Box/IOTA_Play_Box_1.0.FCStd). Please note that FreeCAD version 0.16 or higher is required.
+1. Download [stl/obj files](https://github.com/ysoftiota/yi-play/blob/master/Box/IOTA_Play_Box_1.1.zip) or export them using FreeCAD from [model](https://github.com/ysoftiota/yi-play/blob/master/Box/IOTA_Play_Box_1.1.FCStd). Please note that FreeCAD version 0.16 or higher is required.
 1. Select the models to print in DeeControl, layout is recommended the following:
 ![print](https://github.com/ysoftiota/yi-play/blob/master/Box/print.png)
 1. You can print either on Normal (150um) or Draft mode (200um)
