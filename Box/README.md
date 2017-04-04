@@ -21,10 +21,12 @@
 1. Always thoroughly clean the print bed (by water and dry it afterwards) so that the box surface is nice and shiny
 1. Apply the glue in uniform thin layer over the whole surface of the print bed. Make sure there are no spots without the glue because the large surfaces have tendencies to pick up.
 1. The print will take 3-4h depending on quality selected
-1. After printing it is necessary to clean the buttons and button holes by a sharp knife so that the buttons move freely
-1. If the buttons are not printed correctly, print them separately using slower speed
-1. 4 screws are required. Screws from USBv2 (or longer from TUL/NCR for larger boxes) are ideally suited.
-1. Enjoy your IOTA Play in box
+1. After printing it may be necessary to clean the buttons and button holes by a sharp knife so that the buttons move freely
+1. If the buttons are not printed correctly, print them separately using slower speed or better quality.
+1. You can glue the button holder on the centering pins or you can use soldering iron to melt them.
+1. 4 screws are required. Screws ![Bossard 2001225](https://eu.shop.bossard.com/mk/cz/10316/zavitorezne-srouby-vrtaci-srouby-zavitotvareci-srouby/srouby-do-termoplastu/bn-13576_srouby-pt-174-se-zapustnou-hlavou-s-krizovou-drazkou-phillips-typ-h) or longer for larger boxes ![Bossard 3034352](https://eu.shop.bossard.com/mk/cz/10305/zavitorezne-srouby-vrtaci-srouby-zavitotvareci-srouby/srouby-do-termoplastu/bn-82427_srouby-se-zapustnou-hlavou-s-krizovou-drazkou-pozidriv-typ-z) are ideally suited.
+1. Please remember to remove the white cover from the temperature/humidity sensor before use.
+1. Enjoy your IOTA Play in the box
 
 ## Configuring the model
 1. Open the FCStd file in FreeCad 0.16 or higher (in older versions you will not see the spreadsheet)
