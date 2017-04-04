@@ -24,7 +24,7 @@
 1. After printing it may be necessary to clean the buttons and button holes by a sharp knife so that the buttons move freely
 1. If the buttons are not printed correctly, print them separately using slower speed or better quality.
 1. You can glue the button holder on the centering pins or you can use soldering iron to melt them.
-1. 4 screws are required. Screws ![Bossard 2001225](https://eu.shop.bossard.com/mk/cz/10316/zavitorezne-srouby-vrtaci-srouby-zavitotvareci-srouby/srouby-do-termoplastu/bn-13576_srouby-pt-174-se-zapustnou-hlavou-s-krizovou-drazkou-phillips-typ-h) or longer for larger boxes ![Bossard 3034352](https://eu.shop.bossard.com/mk/cz/10305/zavitorezne-srouby-vrtaci-srouby-zavitotvareci-srouby/srouby-do-termoplastu/bn-82427_srouby-se-zapustnou-hlavou-s-krizovou-drazkou-pozidriv-typ-z) are ideally suited.
+1. 4 screws are required. Screws [Bossard 2001225](https://eu.shop.bossard.com/mk/cz/10316/zavitorezne-srouby-vrtaci-srouby-zavitotvareci-srouby/srouby-do-termoplastu/bn-13576_srouby-pt-174-se-zapustnou-hlavou-s-krizovou-drazkou-phillips-typ-h) or longer for larger boxes [Bossard 3034352](https://eu.shop.bossard.com/mk/cz/10305/zavitorezne-srouby-vrtaci-srouby-zavitotvareci-srouby/srouby-do-termoplastu/bn-82427_srouby-se-zapustnou-hlavou-s-krizovou-drazkou-pozidriv-typ-z) are ideally suited.
 1. Please remember to remove the white cover from the temperature/humidity sensor before use.
 1. Enjoy your IOTA Play in the box
 
